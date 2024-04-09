@@ -1,3 +1,5 @@
+![image](https://github.com/Amitish/Zomato-ML-Project/assets/58432032/df49ba6c-abd6-42e0-a9a9-8e660808bf44)
+
 **Project Summary:**
 
 This project involves employing advanced data analytics techniques to delve into the intricacies of restaurants and customer feedback on the widely-used online food delivery platform, Zomato.
@@ -9,6 +11,7 @@ We will be looking after the crucial task of data cleaning and preprocessing. El
 Moving forward, we will implement clustering on the restaurant data using the k-means algorithm. The aim will be to group similar restaurants together and uncover underlying patterns within the dataset.
 
 The findings generated from this analysis will have the potential to provide valuable guidance to both restaurants and customers in making informed decisions. Moreover, the project could be extended to other cities or countries to explore eating habits and preferences across different regions.
+
 
 **Problem Statement:**
 
